@@ -1,0 +1,21 @@
+[
+    {
+        "createdAt": "2024-10-27T09:30:10Z",
+        "owner": {
+            "id": "28241419",
+            "displayName": "GingiTV",
+            "login": "gingitv"
+        },
+        "id": "2286604074",
+        "game": {
+            "id": "18122",
+            "slug": "world-of-warcraft",
+            "name": "World of Warcraft"
+        },
+        "lengthSeconds": 35090,
+        "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/7122d0e2d0c674dba4b1_gingitv_43080838200_1730021404//thumb/thumb0-214x120.jpg",
+        "title": "<Echo> !DROPS Road to R1 !Dungeon !UI",
+        "viewCount": 97405,
+        "keyword": "war"
+    }
+]
